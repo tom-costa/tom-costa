@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Tom
+### Hi there 👋  my name is Tom
 
 - 👨‍💻   I love learning new technologies to bring ideas into the world.
 - 🦾   Recently completed a **12 week full-stack coding bootcamp**.
