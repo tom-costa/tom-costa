@@ -8,7 +8,7 @@
 Skills:  HTML / CSS / JS / PYTHON/ BOOTSTRAP/ REACT / APIs
 
 -  🌱   I’m currently learning React Js.
--  ⚡   Fun fact: This trio of CSS properties works almost every time:
+-  ⚡   Fun fact: The trio of CSS properties below works for almost everyhting!
 -  ***.selector { display: flex;   justify-content: center;   align-items: center; }*** 
 
 
