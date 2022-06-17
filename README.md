@@ -3,7 +3,7 @@
 - ✅   Currently working as a **full stack junior software engineer in reg/fin-tech**
 - 👨‍💻   I love learning new technologies to bring ideas into the world.
 - 🦾   Completed a **12 week full-stack coding bootcamp**.
-- 💻   Previous career: **10 years in Advertising!**  🎉 🎂   (**6** of those within **Ad Tech**).
+- 💻   Previous career: **10 years in Advertising/ 6 of those in AdTech!**  🎉 🎂
 
 
 Skills:  HTML / CSS / JS / PYTHON/ BOOTSTRAP/ REACT / APIs/ AWS
